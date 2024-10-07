@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/10/07 09:25:14.400,=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/07 09:25:14.697,=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/10/07 09:25:24.361,C:\Users\ADALAL.LLA\Desktop\interface-drone\Project1PCH1.h=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/07 09:25:24.377,C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.h=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2024/10/07 09:25:24.377,C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.dfm=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2024/10/07 09:25:24.377,C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.cpp=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/10/07 09:25:24.392,C:\Users\ADALAL.LLA\Desktop\interface-drone\Project1.cbproj=C:\Users\ADALAL.LLA\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2024/10/07 09:26:41.037,C:\Users\ADALAL.LLA\Desktop\interface-drone\IHMTelloPCH1.h=C:\Users\ADALAL.LLA\Desktop\interface-drone\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/07 09:26:41.052,C:\Users\ADALAL.LLA\Desktop\interface-drone\IHMTello.cbproj=C:\Users\ADALAL.LLA\Desktop\interface-drone\Project1.cbproj</Transaction>
+    <Transaction>2024/10/07 09:27:23.856,C:\Users\ADALAL.LLA\Desktop\interface-drone\IHMprincipal.h=C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.h</Transaction>
+    <Transaction>2024/10/07 09:27:23.856,C:\Users\ADALAL.LLA\Desktop\interface-drone\IHMprincipal.dfm=C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.dfm</Transaction>
+    <Transaction>2024/10/07 09:27:23.856,C:\Users\ADALAL.LLA\Desktop\interface-drone\IHMprincipal.cpp=C:\Users\ADALAL.LLA\Desktop\interface-drone\Unit1.cpp</Transaction>
+    <Transaction>2024/10/07 09:28:46.461,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRClientTCP.cpp</Transaction>
+    <Transaction>2024/10/07 09:28:46.493,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRClientUDP.cpp</Transaction>
+    <Transaction>2024/10/07 09:28:46.524,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRServeurUDP.cpp</Transaction>
+    <Transaction>2024/10/07 09:28:46.555,=C:\Users\ADALAL.LLA\Desktop\interface-drone\ServeurDonneeDrone.cpp</Transaction>
+    <Transaction>2024/10/07 09:28:46.586,=C:\Users\ADALAL.LLA\Desktop\interface-drone\TelloClientUDP.cpp</Transaction>
+    <Transaction>2024/10/07 10:20:33.114,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRClientTCP.h</Transaction>
+    <Transaction>2024/10/07 10:20:33.145,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRClientUDP.h</Transaction>
+    <Transaction>2024/10/07 10:20:33.176,=C:\Users\ADALAL.LLA\Desktop\interface-drone\IRServeurUDP.h</Transaction>
+  </Transactions>
+</BorlandProject>
